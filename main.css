@@ -1,0 +1,63 @@
+
+body{
+	font-family: 'Lato', sans-serif;
+
+	}
+img{
+	max-width:100%;
+}
+.quitar-float{
+	float: none;
+}
+.espacio-arriba{
+    margin-top: 70px;
+}
+.Pacifico{
+	font-family: 'Pacifico', cursive;
+}
+.grande{
+	font-size: 3.5em;
+}
+.verde{
+	color: #00887C
+}
+.espacio-derecha{
+	margin-right: 1em;
+}
+.no-lista li{
+	list-style-type: none;
+}
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+.se-gris{
+	background-color:#EEE
+}
+.padding-largo{
+	padding: 5PX 10PX;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+.a,{
+	color: #009FFF;
+}
+.vete-arriba{
+	vertical-align: top;
+}
+.media{
+	font-size: 1.5em;
+}
+.retraso-1{
+	-webkit-animation-delay:1s;
+	-moz-animation-delay:1s;
+	animation-delay: 1s;
+}
+.retraso-2{
+	-webkit-animation-delay:2s;
+	-moz-animation-delay:2s;
+	animation-delay: 2s;
+}
